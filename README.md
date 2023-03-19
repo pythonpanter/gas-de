@@ -1,2 +1,1 @@
-# gas-de
-Germany's gas imports and possible dependency on Qatar
+The final analysis can be read on my [blog](https://aikai.substack.com/p/wie-abhangig-ist-deutschland-von).
